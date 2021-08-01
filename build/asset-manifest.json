@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Hai-Tawill-30-07-2021/static/css/main.bb828cde.chunk.css",
+    "main.js": "/Hai-Tawill-30-07-2021/static/js/main.e2bbed80.chunk.js",
+    "main.js.map": "/Hai-Tawill-30-07-2021/static/js/main.e2bbed80.chunk.js.map",
+    "runtime-main.js": "/Hai-Tawill-30-07-2021/static/js/runtime-main.3d526317.js",
+    "runtime-main.js.map": "/Hai-Tawill-30-07-2021/static/js/runtime-main.3d526317.js.map",
+    "static/css/2.764ccc25.chunk.css": "/Hai-Tawill-30-07-2021/static/css/2.764ccc25.chunk.css",
+    "static/js/2.18ff8198.chunk.js": "/Hai-Tawill-30-07-2021/static/js/2.18ff8198.chunk.js",
+    "static/js/2.18ff8198.chunk.js.map": "/Hai-Tawill-30-07-2021/static/js/2.18ff8198.chunk.js.map",
+    "index.html": "/Hai-Tawill-30-07-2021/index.html",
+    "precache-manifest.8a8c9053a1c49cacbaad7e9c125066a1.js": "/Hai-Tawill-30-07-2021/precache-manifest.8a8c9053a1c49cacbaad7e9c125066a1.js",
+    "service-worker.js": "/Hai-Tawill-30-07-2021/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/Hai-Tawill-30-07-2021/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.bb828cde.chunk.css.map": "/Hai-Tawill-30-07-2021/static/css/main.bb828cde.chunk.css.map",
+    "static/js/2.18ff8198.chunk.js.LICENSE.txt": "/Hai-Tawill-30-07-2021/static/js/2.18ff8198.chunk.js.LICENSE.txt",
+    "static/media/cloud.cb7f1d95.svg": "/Hai-Tawill-30-07-2021/static/media/cloud.cb7f1d95.svg",
+    "static/media/cloudy-1.cfb1e955.svg": "/Hai-Tawill-30-07-2021/static/media/cloudy-1.cfb1e955.svg",
+    "static/media/night-1.6de43503.svg": "/Hai-Tawill-30-07-2021/static/media/night-1.6de43503.svg",
+    "static/media/rain-1.23e71edd.svg": "/Hai-Tawill-30-07-2021/static/media/rain-1.23e71edd.svg",
+    "static/media/rain-2.5ee170bc.svg": "/Hai-Tawill-30-07-2021/static/media/rain-2.5ee170bc.svg",
+    "static/media/snowing-3.20df6662.svg": "/Hai-Tawill-30-07-2021/static/media/snowing-3.20df6662.svg",
+    "static/media/storm.4b969a4c.svg": "/Hai-Tawill-30-07-2021/static/media/storm.4b969a4c.svg",
+    "static/media/summer.3fe3e19c.svg": "/Hai-Tawill-30-07-2021/static/media/summer.3fe3e19c.svg",
+    "static/media/sun.ef790a4b.svg": "/Hai-Tawill-30-07-2021/static/media/sun.ef790a4b.svg",
+    "static/media/tornado.f511bc84.svg": "/Hai-Tawill-30-07-2021/static/media/tornado.f511bc84.svg",
+    "static/media/winter.19c88f05.svg": "/Hai-Tawill-30-07-2021/static/media/winter.19c88f05.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d526317.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.18ff8198.chunk.js",
+    "static/css/main.bb828cde.chunk.css",
+    "static/js/main.e2bbed80.chunk.js"
+  ]
+}
